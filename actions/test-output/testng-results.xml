@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32257" started-at="2018-09-19T04:16:39Z" finished-at="2018-09-19T04:17:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32257" started-at="2018-09-19T04:16:39Z" finished-at="2018-09-19T04:17:11Z">
+      <class name="selenium.plus.three.UploadFileRoboFramework">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:selenium.plus.three.UploadFileRoboFramework@26be92ad]" name="openBrowser" is-config="true" duration-ms="20409" started-at="2018-09-19T04:16:39Z" finished-at="2018-09-19T04:16:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="uploadingTheFile()[pri:0, instance:selenium.plus.three.UploadFileRoboFramework@26be92ad]" name="uploadingTheFile" duration-ms="11816" started-at="2018-09-19T04:16:59Z" finished-at="2018-09-19T04:17:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadingTheFile -->
+      </class> <!-- selenium.plus.three.UploadFileRoboFramework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

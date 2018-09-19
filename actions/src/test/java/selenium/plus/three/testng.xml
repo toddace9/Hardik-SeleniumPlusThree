@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "MyFirstTestSuite">
+<test name = "MyFristTest">
+<classes>
+<class name = "selenium.plus.three.DataProviderClass"> </class>
+<class name = "selenium.plus.three.BasicAnnotation"> </class>
+<class name = "selenium.plus.three.Annotations"> </class>
+</classes>
+</test>
+</suite>
